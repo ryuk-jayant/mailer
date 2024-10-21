@@ -4,7 +4,7 @@ let transport = mailer.createTransport({
     service: 'gmail',
     auth: {
         user:'naruto.kira101@gmail.com',
-        pass:'naruto.Kira_101'
+        pass:'Your_Password'
     }
 
 })
